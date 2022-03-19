@@ -41,7 +41,7 @@
 
 * They are a big user of the cloud and have been investing in it for a decade making it something very familiar to them and helping people migrate to the cloud. They use cloud for their sustainable goals, such as using green energy sources, architecting for lower power consumption and utilizing servers better for a lower energy footprint.
 ---
-* [Cloud](https://www.accenture.com/us-en/cloud/services-index)\
+* [Cloud](https://www.accenture.com/us-en/cloud/services-index)
 * [Reducing carbon footprint](https://www.accenture.com/us-en/about/corporate-citizenship/environment-charts)
 
 ---
